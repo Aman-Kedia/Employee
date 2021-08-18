@@ -1,0 +1,6 @@
+customhost = ""
+customuser = ""
+custompass = ""
+customdb = "employee"
+custombucket = ""
+customregion = "ap-south-1"
